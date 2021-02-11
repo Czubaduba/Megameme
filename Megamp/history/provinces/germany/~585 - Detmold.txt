@@ -1,6 +1,6 @@
-owner=PRU
-controller=PRU
-add_core=PRU
+owner=DTT
+controller=DTT
+add_core=DTT
 add_core=GER
 trade_goods = coal
 life_rating = 40
