@@ -10,35 +10,35 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 121860
+		size= 12186
 	}
 
 	artisans=
 	{
 		culture = dutch
 		religion = catholic
-		size= 23430
+		size= 2343
 	}
 
 	clergymen=
 	{
 		culture = dutch
 		religion = catholic
-		size= 3570
+		size= 357
 	}
 
 	clerks=
 	{
 		culture = dutch
 		religion = catholic
-		size= 1210
+		size= 121
 	}
 
 	bureaucrats=
 	{
 		culture = dutch
 		religion = catholic
-		size= 750
+		size= 75
 	}
 
 	officers=
@@ -66,49 +66,49 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 4339200
+		size= 43392
 	}
 
 	soldiers=
 	{
 		culture = dutch
 		religion = protestant
-		size= 103330
+		size= 10333
 	}
 
 	craftsmen=
 	{
 		culture = dutch
 		religion = protestant
-		size= 41540
+		size= 4154
 	}
 
 	artisans=
 	{
 		culture = dutch
 		religion = protestant
-		size= 71870
+		size= 7187
 	}
 
 	clergymen=
 	{
 		culture = dutch
 		religion = protestant
-		size= 10960
+		size= 1096
 	}
 
 	clerks=
 	{
 		culture = dutch
 		religion = protestant
-		size= 3720
+		size= 372
 	}
 
 	bureaucrats=
 	{
 		culture = dutch
 		religion = protestant
-		size= 2300
+		size= 230
 	}
 
 	officers=
@@ -159,7 +159,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 4560
+		size= 456
 	}
 
 	bureaucrats=
@@ -187,7 +187,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 569510
+		size= 56951
 	}
 
 	soldiers=
@@ -336,7 +336,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 439100
+		size= 4391
 	}
 
 }
@@ -536,7 +536,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 411330
+		size= 21133
 	}
 
 }
@@ -636,7 +636,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 414298
+		size= 14298
 	}
 
 }
@@ -736,7 +736,7 @@
 	{
 		culture = flemish
 		religion = protestant
-		size= 45668
+		size= 5668
 	}
 
 }
@@ -836,7 +836,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 305806
+		size= 35806
 	}
 
 }
@@ -936,7 +936,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 50662
+		size= 5662
 	}
 
 }
@@ -1036,7 +1036,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 104130
+		size= 14130
 	}
 
 }
@@ -1136,7 +1136,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 600967
+		size= 6967
 	}
 
 }
@@ -1236,7 +1236,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 800979
+		size= 8979
 	}
 
 }
